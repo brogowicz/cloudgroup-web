@@ -1,0 +1,15 @@
+{
+  "name": "cloudgroup-web",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
